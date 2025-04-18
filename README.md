@@ -65,11 +65,6 @@ git clone https://github.com/Tanneeshha/InternIntelligence_Portfolio.git
    - Start Apache & MySQL via XAMPP/WAMP
    - Visit: http://localhost/InternIntelligence_Portfolio/
      
-
-## 📸 Screenshots
-
-> Add interface screenshots here to show the dashboard, project cards, and form layouts.
-
 ## 📌 Future Improvements
 
 - User role management
