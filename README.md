@@ -83,5 +83,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 > Built by [Taneesha](https://github.com/Tanneeshha)
 
-
-Let me know if you'd like a version that includes GIFs or usage examples for each CRUD operation!
